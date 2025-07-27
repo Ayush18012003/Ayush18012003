@@ -18,19 +18,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<!-- Snake Animation Fix -->
-### 🐍 **Contribution Serpent**
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kenshi2727/kenshi2727/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kenshi2727/kenshi2727/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/kenshi2727/kenshi2727/output/github-snake.svg" />
-</picture>
-
-<!-- Terminal Footer -->
-<div align="center" style="margin-top: 50px; padding: 15px; background: #1A1A1A; border-radius: 8px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00F72E&center=true&vCenter=true&width=600&lines=System+Status%3A+OPERATIONAL+%7C+Last+Update%3A+$(date+%22%Y-%m-%d+%H%3A%M%3A%S%22)+%7C+Ready+For+Collaboration+%F0%9F%91%8B" alt="Terminal Status" />
-</div>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Ayush18012003&limit=5&theme=dark&combine_all_yearly_contributions=true)

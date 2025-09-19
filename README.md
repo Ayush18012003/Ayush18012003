@@ -1,28 +1,116 @@
-# 💫 About Me:
-🔭 I’m currently working on:<br>- Developing a fully-fledged **AI Medical Assistant** and crafting a dynamic **personal portfolio website**.<br>- Enhancing **Heart Safe AI** — a machine learning model that predicts heart disease risk using real-world patient data.<br>- Upgrading the UX and analytics dashboard of my **WhatsApp Chat Analyzer** with advanced visualizations and user filters.<br><br>👯 I’m looking to collaborate on:<br>- **Full-stack applications** in domains like healthcare, data intelligence, and AI-powered tools.<br>- **Open-source ML/NLP projects**, especially those involving Python, Flask, Streamlit, and scalable backend systems.<br><br>🤝 I’m looking for help with:<br>- **Deploying ML models** at scale using Docker, CI/CD pipelines, and cloud infrastructure (AWS/GCP).<br>- Integrating **deep learning solutions** into production-ready web apps with performance optimization.<br><br>🌱 I’m currently learning:<br>- **React.js and Generative AI** to strengthen my frontend and AI integration skills.<br>- **Deep learning frameworks** like TensorFlow and Keras for advanced modeling.<br>- Scalable **API design** patterns and **microservices architectures** for enterprise-grade systems.<br><br>💬 Ask me about:<br>- Java & DSA (500+ problems solved | LeetCode rating: 1695)<br>- End-to-end ML app development (data preprocessing → model deployment)<br>- Memory optimization, model evaluation, and building lightweight, fast web apps<br><br>⚡ Fun fact:<br>I started my ML journey by analyzing **WhatsApp group behavior** — that curiosity turned into a full-fledged analytics tool with interactive dashboards. 📊🚀<br>
+<h1 align="center">✨ "Turning Ideas into Impact – One Project at a Time 🚀" ✨</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=16A34A&center=true&vCenter=true&width=700&lines=Hi+there+👋%2C+I'm+Ayush+Gupta;Web+Developer+%7C+ML+Enthusiast+%7C+Problem+Solver;500%2B+DSA+Problems+%7C+LeetCode+1695+Rating;Passionate+about+AI/ML%2C+Web+Dev+%26+Data+Analytics" alt="Typing SVG" />
+</p>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/38Jhvd3sgJ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ayush-gupta-352287261) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushguptaindia2003@gmail.com) 
+<p align="center">
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif?raw=true" width="600" alt="Dev Banner" />
+</p>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=plastic&logo=ejs&logoColor=black) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=plastic&logo=streamlit&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=plastic&logo=riotgames&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=plastic&logo=amd&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=plastic&logo=epicgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=plastic&logo=steam&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=plastic&logo=nVIDIA&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ayush18012003&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ayush18012003&theme=github_dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush18012003&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<h3 align="center">🎓 Final Year B.Tech CSE | 🤖 ML Explorer | 💻 Web Dev</h3>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ayush18012003&theme=github_dark&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ayush18012003&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Ayush18012003&label=Profile%20Views&color=16A34A&style=for-the-badge" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ayush18012003&icon=0&color=13)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coder gif" />
+</p>
+
+- 🔭 Currently building:  
+   - **AI Medical Assistant**  
+   - **Heart Safe AI** (ML model for heart disease risk prediction)  
+   - **WhatsApp Chat Analyzer v2** (advanced analytics dashboard & UX improvements)  
+- 👯 Looking to collaborate on:  
+   - **AI-powered full-stack applications** (healthcare, data intelligence, scalable systems)  
+   - **Open-source ML/NLP projects** using Flask, Streamlit, or React  
+- 🤝 Seeking help with:  
+   - **Deploying ML models at scale** (Docker, CI/CD, AWS/GCP)  
+   - **Optimizing deep learning solutions** for production  
+- 🌱 Currently learning:  
+   - **React.js** & **Backend** & **Generative AI**  
+   - **TensorFlow, Keras, scalable APIs & microservices**  
+- 💬 Ask me about:  
+   - Java & DSA (500+ problems solved, LeetCode 1695)  
+   - End-to-end ML model development  
+   - Model optimization & lightweight web apps  
+- ⚡ Fun fact:  
+   My ML journey began by analyzing **WhatsApp group behavior** → turned into a full-fledged **interactive analytics tool** 📊🚀  
+
+---
+
+## 🌐 Let's Connect  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayush-gupta-352287261" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  </a>
+  <a href="mailto:ayushguptaindia2003@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+  </a>
+  <a href="https://discord.gg/38Jhvd3sgJ" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" height="45" />
+  </a>
+</p>
+
+---
+
+## ⚙️ Tools & Technologies  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,nodejs,express,flask,vue,bootstrap,vite,mysql,postgres,sqlite,git,github,linux,figma,tensorflow,sklearn,postman,powerbi" />
+</p>
+
+---
+
+## 📈 GitHub Stats & Activity  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayush18012003&show_icons=true&theme=tokyonight&border_radius=15&hide_border=false" width="47%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Ayush18012003&theme=tokyonight&hide_border=false&border_radius=15" width="47%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush18012003&layout=compact&theme=tokyonight&hide_border=false&border_radius=15" width="47%" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ayush18012003&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" />
+</p>
+
+---
+
+## ✍️ Random Dev Quote  
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+## 💡 Fun Fact  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FACC15&center=true&vCenter=true&width=600&lines=I+turn+coffee+%E2%98%95+into+code.;Problem-solving+is+my+therapy+🧠.;Building+apps+that+make+life+better+💡" alt="Fun Typing SVG" />
+</p>
+
+---
+
+## 🙏 Thank You for Visiting!  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=16A34A&center=true&vCenter=true&width=435&lines=Thanks+for+stopping+by!;Wishing+you+an+amazing+day+😊" alt="Thank You SVG" />
+</p>
+
+---
